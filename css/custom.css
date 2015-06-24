@@ -4,17 +4,19 @@ body {
   padding-bottom: 20px;
 }
 
-ul.nav, .jumbotron h1 {
-
+ul.nav {
+  font-size: 17px;
+  margin: 25px;
+  font-family: 'Palanquin', sans-serif;
 }
 
-ul.nav {
-  font-size: 18px;
-  margin: 30px;
-  font-family: 'Magra', sans-serif;
+#about-me {
+  background-color: #E6F9FF;
+  color: #bbb;
 }
 
 .navbar-inverse {
+  color: #47A3FF;
   background-color: white;
 }
 
@@ -23,13 +25,13 @@ ul.nav {
   background-image: url('../images/hero.jpg');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position:center center;
-  opacity: 0.5;
+  background-position: center center;
+  opacity: 0.7;
   color: white;
-  font-family: 'Magra', sans-serif;
 }
 
 .jumbotron h1 {
+  font-family: 'Palanquin', sans-serif;
   margin-top: 0px;
   margin-bottom: 50px;
 }
@@ -45,3 +47,43 @@ ul.nav {
   background-color: black;
   color: white;
 }
+
+.homepage {
+  text-align: center;
+}
+
+.homepage h2, .homepage h3 {
+  color: #47a3ff;
+  font-family: 'Palanquin', sans-serif;
+  text-transform: uppercase;
+}
+
+.homepage h2 {
+  font-size: 30px;
+}
+
+.homepage h3 {
+  font-size: 26px;
+}
+
+.homepage p {
+  font-size: 21px;
+  font-weight: 300;
+}
+
+.homepage a {
+  color: #47a3ff;
+}
+
+.homepage hr {
+  border-top: 1px solid  #47a3ff;
+  width: 100px;
+  margin-top: 15px;
+}
+
+
+
+
+
+
+
