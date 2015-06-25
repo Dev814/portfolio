@@ -6,18 +6,18 @@ body {
 
 ul.nav {
   font-size: 17px;
-  margin: 25px;
-  font-family: 'Palanquin', sans-serif;
+  margin: 10px;
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+  color: white;
+  font-weight: 100;
 }
 
 #about-me {
-  background-color: #E6F9FF;
-  color: #bbb;
-}
-
-.navbar-inverse {
-  color: #47A3FF;
-  background-color: white;
+  background-color: #EDEDED;
+  color: black;
 }
 
 .jumbotron  {
@@ -31,7 +31,8 @@ ul.nav {
 }
 
 .jumbotron h1 {
-  font-family: 'Palanquin', sans-serif;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 3px;
   margin-top: 0px;
   margin-bottom: 50px;
 }
@@ -54,7 +55,7 @@ ul.nav {
 
 .homepage h2, .homepage h3 {
   color: #47a3ff;
-  font-family: 'Palanquin', sans-serif;
+  font-family: 'Lato', sans-serif;
   text-transform: uppercase;
 }
 
@@ -73,6 +74,7 @@ ul.nav {
 
 .homepage a {
   color: #47a3ff;
+  font-weight: 100;
 }
 
 .homepage hr {
