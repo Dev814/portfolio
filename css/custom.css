@@ -1,26 +1,27 @@
 /* Move down content because we have a fixed navbar that is 50px tall */
 body {
   padding-top: 50px;
-  padding-bottom: 20px;
 }
 
 ul.nav {
   font-size: 17px;
   margin: 10px;
+  letter-spacing: 2px;
   font-family: 'Lato', sans-serif;
 }
 
 #content-block {
-  background-color: #37424A;
+  background-color: #47a3ff;
   color: white;
   font-size: 17px;
-  font-weight: 100;
   padding-top: 75px;
   padding-bottom: 75px;
+  opacity: 0.9;
 }
 
 footer {
   background-color: #47a3ff;
+  text-align: right;
   padding-top: 150px;
   padding-bottom: 30px;
 }
@@ -85,8 +86,9 @@ footer {
 }
 
 .homepage p {
-  font-size: 21px;
-  font-weight: 300;
+  font-size: 22px;
+  font-weight: 100;
+  letter-spacing: 1px;
 }
 
 .homepage a {
@@ -96,7 +98,7 @@ footer {
 
 .homepage hr {
   border-top: 1px solid  #47a3ff;
-  width: 110px;
+  width: 115px;
   margin-top: 15px;
 }
 
