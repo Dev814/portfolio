@@ -41,7 +41,7 @@ footer {
   color: white;
   background-image: url('../images/main_hero_test1.jpg');
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 1170px;
 }
 
 .jumbotron h1 {
