@@ -35,6 +35,11 @@ footer {
   font-weight: 100;
 }
 
+.navbar-inverse .navbar-brand {
+  font-size: 45px;
+  color: white;
+}
+
 #about-me {
   background-color: #EDEDED;
   color: black;
@@ -43,7 +48,7 @@ footer {
 .jumbotron {
   background-color: #B980EE;
   text-align: center;
-  color: black;
+  color: white;
   /*background-image: url('../images/main_hero_test1.jpg');*/
   background position: center center;
   /*opacity: 0.9;*/
@@ -55,7 +60,7 @@ footer {
   letter-spacing: 3px;
   /*margin-top: 700px;
   margin-bottom: 50px;*/
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .jumbotron p {
@@ -109,7 +114,10 @@ footer {
   margin-top: 15px;
 }
 
-
+.emphasis {
+  color: yellow;
+  font-weight: 700;
+}
 
 
 
