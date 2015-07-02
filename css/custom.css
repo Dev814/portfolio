@@ -65,8 +65,9 @@ footer {
 }
 
 .btn-lg {
-  background-color: yellow;
+  background-color: #FFFF00;
   font-size: 30px;
+  margin: 65px;
 }
 
 .homepage {
