@@ -74,9 +74,7 @@ footer p {
   background-color: #B980EE;
   text-align: center;
   color: white;
-  /*background-image: url('../images/main_hero_test1.jpg');*/
   background position: center center;
-  /*opacity: 0.9;*/
   margin-bottom: 0;
 }
 
@@ -87,8 +85,6 @@ footer p {
 .jumbotron h1 {
   font-family: 'Lato', sans-serif;
   letter-spacing: 3px;
-  /*margin-top: 700px;
-  margin-bottom: 50px;*/
   font-weight: 400;
 }
 
