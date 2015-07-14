@@ -5,6 +5,28 @@ body {
   padding-bottom: 20px;
 }
 
+ul.nav, .jumbotron h1 {
+  font-family: 'Hind', courier, sans-serif;
+  letter-spacing: 1px;
+}
+
+ul.nav {
+  font-size: 13px;
+}
+
 .jumbotron {
   text-align: center;
+  background-image: url('../images/as_pic.jpg');
+  background-size: cover;
+}
+
+.jumbotron h1 {
+  font-weight: 800;
+  color: black;
+  text-align: right;
+}
+
+.btn-lg {
+  font-size: 30px;
+  margin-top: 50px;
 }
