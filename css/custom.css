@@ -14,7 +14,12 @@ ul.nav {
   font-size: 13px;
 }
 
-.navbar-inverse .navbar-nav>li>a {
+.navbar-inverse {
+  background-color: white;
+  border-color: white;
+}
+
+.navbar-inverse .navbar-nav>li>a .fa {
   color: white;
 }
 
